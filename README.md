@@ -31,7 +31,7 @@ Additionally, it has paved the way for me to pursue one of the entry-level follo
 <h3>Skills</h3>
 <table>
 <thead>
-<tr>
+<tr> 
 <th align="left">Projects</th>
 <th align="center">Skills/Knowledge Gained</th>
 </tr>
